@@ -1,0 +1,50 @@
+<dl>
+      <dt>Visual</dt>
+      <dd>This can be non-sighted users, users with low-vision, users with obstructed vision,
+      or even simply your aging parents.</dd>
+
+      <ul> 
+        <li>Associated conditions</li>
+        <li>Myopia</li>
+        <li>Colour blindness</li>
+        <li>Glaucoma</li>
+        <li>Albinism</li>
+      </ul>
+    
+
+    <dt>Auditory</dt>
+    <dd>The web is a visual medium, but captions and fallbacks for sound-necessary media need to be considered for hearing impaired  users.</dd>
+
+      <ul> 
+        <li>Associated conditions</li>
+        <li>Presbycusis</li>
+        <li>Acoustic trauma</li>
+        <li>Auditory processing disorder</li>
+        <li>Otosclerosis</li>
+      </ul>
+    
+
+
+    <dt>Motor</dt>
+    <dd>People with motor impairments typically use a wide range of assistive technology from specialized keyboards, to eye trackers, to using single buttons (a device known as a “switch”) to navigate their computers.</dd>
+
+    <ul>
+        <li>Associated conditions</li>
+        <li>RSI</li>
+        <li>Cerebral palsy</li>
+        <li>Parkinson’s</li>
+        <li>Muscular dystrophy</li>
+    </ul>
+  
+  <dt>Cognitive</dt>
+  <dd>Relates to the ease processing of information.</dd>
+
+     <ul>
+          <li>Associated conditions</li>
+          <li>Down’s syndrome</li>
+          <li>Autism</li>
+          <li>Global developmental delay</li>
+          <li>Dyslexia</li>
+     </ul>
+   
+ </dl>
